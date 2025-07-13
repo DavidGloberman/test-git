@@ -1,5 +1,8 @@
 hi whats new
 new commit
 david
+<<<<<<< ours
 
 hi this line is from branch main dev dev
+=======
+>>>>>>> theirs
